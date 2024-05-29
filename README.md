@@ -1,8 +1,20 @@
-# React + Vite
+# Rent Scooter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Rent Scooter**! Rent our scooters affordably and conveniently.
 
-Currently, two official plugins are available:
+## How to Book
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Select Location**: Choose your pickup location.
+2. **Choose Pickup Date**: Pick your rental date.
+3. **Set Kilometers**: Specify travel distance.
+4. **Book Scooter**: Confirm your booking and ride!
+
+## Contact Us
+
+- **Email**: workwithshaif@gmail.com
+
+
+
+---
+
+Thank you for choosing **Rent Scooter**!
